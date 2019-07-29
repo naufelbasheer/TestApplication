@@ -7,5 +7,7 @@ Recipe  1
 Recipe  2
 
 Recipe 3 
+Recipe 3.1 
+Recipe 3.2
 
 Thanks :)
