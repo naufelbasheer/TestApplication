@@ -9,3 +9,4 @@ Recipe  2
 Recipe 3 
 
 Thanks :)
+Stable version 1.2
